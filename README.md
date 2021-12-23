@@ -8,7 +8,7 @@ SOFTWARE REQUIREMENT DOCUMENTATION OF MakeMyTrip  APPLICATION
 
 3.	OVERVIEW………………………………………………………  5
 
-4.	INTRODUCTION TO MakeMyTrip……………………… 6 – 8
+4.	INTRODUCTION TO MakeMyTrip……………………… 6 – 8 
 I.	FOUNDER OF MakeMyTrip
 II.	FEATURES OF MakeMyTrip
 
