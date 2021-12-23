@@ -1,6 +1,7 @@
 # 5th_Sem-Software_Enigneering
 
 College Mini Project
+
 SOFTWARE REQUIREMENT DOCUMENTATION OF MakeMyTrip  APPLICATION
 
 1.	ACKNOWLEDGEMENT ………………………………………3                     
@@ -11,8 +12,9 @@ SOFTWARE REQUIREMENT DOCUMENTATION OF MakeMyTrip  APPLICATION
 
 4.	INTRODUCTION TO MakeMyTrip……………………… 6 – 8 
 
-I. FOUNDER OF MakeMyTrip
-II. FEATURES OF MakeMyTrip
+ I. FOUNDER OF MakeMyTrip
+
+ II. FEATURES OF MakeMyTrip
 
 5.	FUNCTIONAL REQUIREMENT……………………………8 -13
 
