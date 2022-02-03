@@ -1,6 +1,7 @@
 # 5th_Sem-Software_Enigneering
 
-College Mini Project
+(LA-1) Assignment
+
 
 SOFTWARE REQUIREMENT DOCUMENTATION OF MakeMyTrip  APPLICATION
 
